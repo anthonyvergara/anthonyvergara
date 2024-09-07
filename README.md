@@ -21,7 +21,7 @@ Here you will see technologies and concepts that I have been studying to develop
 
 ## Contato
 Telefone: (62)99525-6017
-Email: anthonyverg@icloud.com
+<p>Email: anthonyverg@icloud.com
 <div>
   <a href="https://instagram.com/_anthonyvergara" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/anthony-vergara-819318321/" target="_blank">&ensp;<img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
