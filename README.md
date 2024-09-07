@@ -8,18 +8,18 @@ I'm Java Developer and i am studying Computer Science.
 Here you will see technologies and concepts that I have been studying to develop my skills.
 <br/>
 
-## Ferramentas e Tecnologias
+## Ferramentas e Tecnologias | Tools and technologies
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>&ensp;<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40"/>&ensp;<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/>&ensp;<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
 
 
 
-## Estou aprendendo
+## Estou aprendendo | I'm learning
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40"/>&ensp;<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
           
 
 
-## Contato
+## Contato | Contact
 Telefone: (62)99525-6017
 <p>Email: anthonyverg@icloud.com
 <div>
